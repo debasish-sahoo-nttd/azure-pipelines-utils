@@ -1,0 +1,23 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Package files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.zip
+
+# Log files
+*.log
+
+# Runtime data
+*.pid
+*.seed
+*.pid.lock
+
+.idea/
+.vscode/
